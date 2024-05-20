@@ -9,7 +9,7 @@ readme = "README.md"
 packages = [{ include = "dbt_airflow" }]
 
 [tool.poetry.dependencies]
-pydantic = "^1.10.4"
+
 
 [tool.poetry.group.dev.dependencies]
 commitizen = ">=2.40,<4.0"
